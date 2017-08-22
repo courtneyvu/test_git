@@ -1,3 +1,4 @@
+
 Full name: Annie Song
-Department: Computer Science
+Department: CS
 
